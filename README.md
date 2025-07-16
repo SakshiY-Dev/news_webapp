@@ -14,7 +14,7 @@ The News App is a simple application that allows users to stay updated with the 
 
 1. Clone the repository:
 
-   git clone https://github.com/SakshiY_Dev/news-app.git
+   git clone https://github.com/SakshiY-Dev/news_webapp.git
 
 2. Navigate to the project directory:
 
@@ -30,7 +30,7 @@ The News App is a simple application that allows users to stay updated with the 
 
    npm run dev
 
-2. Open your browser and navigate to `http://localhost:5174`
+2. Open your browser and navigate to `http://localhost:5173`
 
 ## Technologies Used
 
